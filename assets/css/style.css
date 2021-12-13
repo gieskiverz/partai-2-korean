@@ -547,6 +547,12 @@ section {
   min-height: 500px;
 }
 
+.about .content ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
 @media (max-width: 991px) {
   .about .image {
     text-align: center;
